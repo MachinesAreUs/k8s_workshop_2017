@@ -2,6 +2,10 @@
 
 Este es el repositorio del 1er Taller de Kubernetes - CDMX
 
+## Presentación
+
+- [slides](./slides.pdf)
+
 ## Recetas para instalar kubectl y minikube
 
 - [Mac](./minikube_mac.md)
